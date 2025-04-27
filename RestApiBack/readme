@@ -1,0 +1,7 @@
+Prerequisites:
+
+1) JDK last version
+2) IDE to download dependecies in the pom.xml
+3) PgAdmin and PostgreSQL
+4) Change application.properties file, and set your DB name, password and etc
+5) Run project
